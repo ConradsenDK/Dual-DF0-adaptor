@@ -9,5 +9,4 @@ under development ..  stay tuned
 
 
 Made by
-Lars Conradsen
-Jeppe Rasmussen
+Lars Conradsen & Jeppe Rasmussen
