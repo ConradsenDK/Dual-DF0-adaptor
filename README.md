@@ -6,3 +6,8 @@ you can then and internal floppy on one and a gotek on the other.
 den use a tackle switch to select whitch drive a DF0. 
 
 under development ..  stay tuned
+
+
+Made by
+Lars Conradsen
+Jeppe Rasmussen
