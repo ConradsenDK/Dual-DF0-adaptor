@@ -1,9 +1,8 @@
 # Dual-DF0-adaptor
 
-This is a adaptor who you put on Amigas internal floppy connecotor.
-on to of this PCB there are 2 x floppy connectors
-you can then and internal floppy on one and a gotek on the other.
-den use a tackle switch to select whitch drive a DF0. 
+This is a adaptor to be installet on Amigas internal floppy connecotor.
+PCB has 2 x floppy connectors
+you then can switch between those using a simple tackle switch
 
 under development ..  stay tuned
 
