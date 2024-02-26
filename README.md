@@ -9,7 +9,7 @@ you can switch between those using a simple tackle switch
 ![IMG_0503](https://github.com/ConradsenDK/Dual-DF0-adaptor/assets/49607875/95339d46-a49d-4583-ba06-a87ed2d68f45)
 
 
-BOM
+# BOM
 2 x (2x17) male pins on Disk1 & Disk2. --
 1 x (2x17) female pins pointing downwards mainboard. --
 1 x 3pin tackle switch to select Which drive who´s enabled. --
