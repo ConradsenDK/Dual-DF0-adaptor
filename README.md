@@ -1,8 +1,8 @@
 # Dual-DF0-adaptor
 
-This is a adaptor to be installed on Amigas internal floppy connecotor.
+This is a adaptor to be installed on Amigas internal floppy connector.
 PCB has 2 x floppy connectors
-you then can switch between those using a simple tackle switch
+you can switch between those using a simple tackle switch
 
 
 ![IMG_0502](https://github.com/ConradsenDK/Dual-DF0-adaptor/assets/49607875/40e4e361-f59c-4b62-987b-77d820f07718)
@@ -10,9 +10,9 @@ you then can switch between those using a simple tackle switch
 
 
 BOM
-2 x (2x17) male pins on Disk1 & Disk2.
-1 x (2x17) female pins pointing downwards mainboard.
-1 x 3pin tackle switch to select Which drive who´s enabled. 
+2 x (2x17) male pins on Disk1 & Disk2. --
+1 x (2x17) female pins pointing downwards mainboard. --
+1 x 3pin tackle switch to select Which drive who´s enabled. --
 
 ![download](https://github.com/ConradsenDK/Dual-DF0-adaptor/assets/49607875/e4dccd05-f448-4862-a1c9-ffc147220733)
 
